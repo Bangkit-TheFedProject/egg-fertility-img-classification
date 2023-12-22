@@ -26,3 +26,4 @@ Notebook file:
 `Egg_Img_Classification.ipynb`
 
 Dataset:
+[egg-candling-dataset](https://github.com/Bangkit-TheFedProject/egg-candling-dataset)
